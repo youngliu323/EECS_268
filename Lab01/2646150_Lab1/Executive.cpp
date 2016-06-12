@@ -52,7 +52,7 @@ int Executive::create(char* input)
 	//gives the coeff to polynomial
 	poly[count] = Polynomial((int)thing, tempc);
 
-	//counts up everytime the loop runs
+	//counts up every time the loop runs
 	count++;        
 	}
 
